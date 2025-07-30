@@ -67,3 +67,8 @@ alembic upgrade head
 
 # Rollback last migration
 alembic downgrade -1
+
+
+# for testing
+
+pytest tests/
