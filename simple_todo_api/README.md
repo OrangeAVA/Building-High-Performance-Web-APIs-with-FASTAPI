@@ -45,7 +45,7 @@ simple_todo_api/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/simple-todo-api.git
+git clone https://github.com/girishvas/Building-High-Performance-Web-APIs-with-FAST-API.git
 cd simple-todo-api
 
 python -m venv env

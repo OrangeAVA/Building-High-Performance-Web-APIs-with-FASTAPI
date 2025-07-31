@@ -49,7 +49,7 @@ ecommerce_api/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Building-High-Performance-Web-APIs-with-FAST-API.git
+git clone https://github.com/girishvas/Building-High-Performance-Web-APIs-with-FAST-API.git
 cd Building-High-Performance-Web-APIs-with-FAST-API/ecommerce_api
 
 
