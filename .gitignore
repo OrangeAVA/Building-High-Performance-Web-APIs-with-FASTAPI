@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+*.db
+alembic.ini
+.envrc
+.idea/
+.vscode/
+.env
+venv/
+env/
